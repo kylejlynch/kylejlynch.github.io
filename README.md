@@ -11,5 +11,5 @@ My master’s research involved approximately a hundred files totaling to thousa
 ### [Data Science Assignments](https://kylejlynch.github.io/Assignments/)
 Select homework assignments which I felt displayed a variety of skills important in the field of data science (Data science libraries, Machine Learning, large datasets).
 
-### [Physics Computation](https://github.com/kylejlynch/Physics/blob/master/Motion%20of%20a%20Pendulum.ipynb)  
+### [Physics Computation](https://nbviewer.jupyter.org/github/kylejlynch/Physics/blob/master/Motion%20of%20a%20Pendulum.ipynb)  
 Introducing myself to computational physics/mathematics. I start here with a simple calculation of the motion of a damped pendulum with a large initial angle, which is described by a non-linear differential equation. This is then compared to the linear, undamped motion which can be solved easily by separation of variables (without computational methods).
