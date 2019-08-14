@@ -2,6 +2,9 @@
 
 Welcome to my GitHub. Please see below for links to my repositories.
 
+### [Fourier Series Forecasting](https://kylejlynch.github.io/Fourier_Forecasting/)
+Uses Fourier Series to fit time series data and forecast future trends by analyzing the Fourier coefficients from fit data.
+
 ### [Call Center Statistics Web Application and Predictive Analytics](https://kylejlynch.github.io/UMRF/)
 Receives daily and weekly performance data from emails for call center agents, stores it in two SQL databases, computes statistics, and produces an Excel workbook and several performance plots available for review and download on a website hosted by PythonAnywhere. I also use several machine learning algorithms as well as SciPy curve_fit for predicitve analytics/schedule optimization.
 * [Web Application](https://github.com/kylejlynch/UMRF/blob/master/README.md#umrf-ventures-agent-data-and-statistics-web-application)
